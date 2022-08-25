@@ -1,0 +1,6 @@
+train: ./data/test/images/train/
+val: ./data/test/images/test/
+
+nc: 5
+
+names: ['person', 'bus', 'car', 'truck', 'bike']
